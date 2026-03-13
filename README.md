@@ -80,3 +80,9 @@ Google Cybersecurity Professional Certificate (In Progress)
 
 Divyajyot Sinha
 Computer Science Student – Cybersecurity
+## Certifications
+
+**Foundations of Cybersecurity – Google / Coursera**
+Completed: March 13, 2026
+Verification: https://coursera.org/verify/NX55I5X0X4GV
+
